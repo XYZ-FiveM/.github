@@ -21,7 +21,6 @@
     <td align="center"><a href="https://github.com/Cuzzman"><img src="https://github.com/Cuzzman.png" width="100px;" alt=""/><br /><sub><b>Cuzzman</b></sub></a></td>
     <td align="center"><a href="https://github.com/guhblag"><img src="https://github.com/guhblag.png" width="100px;" alt=""/><br /><sub><b>guhblag</b></sub></a></td>
     <td align="center"><a href="https://github.com/JustBlueDolphin"><img src="https://github.com/JustBlueDolphin.png" width="100px;" alt=""/><br /><sub><b>JustBlueDolphin</b></sub></a></td>
-    <td align="center"><a href="https://github.com/levdevlev"><img src="https://github.com/levdevlev.png" width="100px;" alt=""/><br /><sub><b>levdevlev</b></sub></a></td>
     <td align="center"><a href="https://github.com/Lionh34rt"><img src="https://github.com/Lionh34rt.png" width="100px;" alt=""/><br /><sub><b>Lionh34rt</b></sub></a></td>
   </tr>
   <tr>
