@@ -35,7 +35,6 @@
 <table>
   <tr>
     <td align="center"><a href="https://github.com/SSnowly"><img src="https://github.com/SSnowly.png" width="100px;" alt=""/><br /><sub><b>SSnowly</b></sub></a></td>
-    <td align="center"><a href="https://github.com/trclassic92"><img src="https://github.com/trclassic92.png" width="100px;" alt=""/><br /><sub><b>TRClassic</b></sub></a></td>
   </tr>
 </table>
 
