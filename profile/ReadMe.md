@@ -19,8 +19,6 @@
 <table>
   <tr>
     <td align="center"><a href="https://github.com/MoneSuper"><img src="https://github.com/MoneSuper.png" width="100px;" alt=""/><br /><sub><b>MoneSuper</b></sub></a></td>
-  </tr>
-  <tr>
     <td align="center"><a href="https://github.com/JustBlueDolphin"><img src="https://github.com/JustBlueDolphin.png" width="100px;" alt=""/><br /><sub><b>JustBlueDolphin</b></sub></a></td>
     <td align="center"><a href="https://github.com/Lionh34rt"><img src="https://github.com/Lionh34rt.png" width="100px;" alt=""/><br /><sub><b>Lionh34rt</b></sub></a></td>
     <td align="center"><a href="https://github.com/RoyaleWind"><img src="https://github.com/RoyaleWind.png" width="100px;" alt=""/><br /><sub><b>RoyaleWind</b></sub></a></td>
