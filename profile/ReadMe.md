@@ -14,7 +14,7 @@
   Our team combines creativity with technical expertise to craft a one-of-a-kind FiveM server. We're pushing the boundaries of what's possible in GTA V multiplayer, developing custom scripts, innovative gameplay mechanics, and rich, interactive environments. Our goal is to deliver an unparalleled roleplay experience that stands out in the FiveM community.
 </p>
 
-## Our Development Team
+## Our Current Development Team
 
 <table>
   <tr>
@@ -26,7 +26,7 @@
   </tr>
 </table>
 
-## Past Contributors
+## Past Contributors 2024 - 2025
 
 <table>
   <tr>
