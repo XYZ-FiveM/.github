@@ -2,10 +2,9 @@
   <img height="450" src="https://i.imgur.com/2xFVaZi.jpeg"  />
 </div>
 
-###
+## About The Project
 
-<h1 align="left">Welcome To XYZ-FiveM Organisation</h1>
-
+One man army doing everyones jobs :) 
 
 ## Our Current Development Team
 
