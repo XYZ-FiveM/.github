@@ -11,6 +11,8 @@ One man army doing everyones jobs :)
 <table>
   <tr>
     <td align="center"><a href="https://github.com/MoneSuper"><img src="https://github.com/MoneSuper.png" width="100px;" alt=""/><br /><sub><b>MoneSuper</b></sub></a></td>
+    <td align="center"><a href="https://github.com/jamesfrenzyy"><img src="https://github.com/jamesfrenzyy.png" width="100px;" alt=""/><br /><sub><b>Senorxmas</b></sub></a></td>
+    
   </tr>
 </table>
 
