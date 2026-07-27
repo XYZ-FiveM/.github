@@ -1,13 +1,3 @@
-<div align="center">
-  <img height="450" src="https://i.imgur.com/2xFVaZi.jpeg"  />
-</div>
-
-## About The Project
-
-One man army doing everyones jobs :) 
-
-## Our Current Development Team
-
 <table>
   <tr>
     <td align="center"><a href="https://github.com/MoneSuper"><img src="https://github.com/MoneSuper.png" width="100px;" alt=""/><br /><sub><b>MoneSuper</b></sub></a></td>
