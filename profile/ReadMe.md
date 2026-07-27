@@ -32,7 +32,6 @@ One man army doing everyones jobs :)
     <td align="center"><a href="https://github.com/AiLexie"><img src="https://github.com/AiLexie.png" width="100px;" alt=""/><br /><sub><b>Lexie</b></sub></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/MoneSuper"><img src="https://github.com/MoneSuper.png" width="100px;" alt=""/><br /><sub><b>MoneSuper</b></sub></a></td>
     <td align="center"><a href="https://github.com/jamesfrenzyy"><img src="https://github.com/jamesfrenzyy.png" width="100px;" alt=""/><br /><sub><b>Senorxmas</b></sub></a></td>
     <td align="center"><a href="https://github.com/JustBlueDolphin"><img src="https://github.com/JustBlueDolphin.png" width="100px;" alt=""/><br /><sub><b>JustBlueDolphin</b></sub></a></td>
   </tr>
