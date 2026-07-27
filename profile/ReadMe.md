@@ -2,6 +2,7 @@
   <tr>
     <td align="center"><a href="https://github.com/MoneSuper"><img src="https://github.com/MoneSuper.png" width="100px;" alt=""/><br /><sub><b>MoneSuper</b></sub></a></td>
     <td align="center"><a href="https://github.com/Thomasdev18"><img src="https://github.com/Thomasdev18.png" width="100px;" alt=""/><br /><sub><b>Thomasdev18</b></sub></a></td>
+    <td align="center"><a href="https://github.com/D4isDAVID"><img src="https://github.com/D4isDAVID.png" width="100px;" alt=""/><br /><sub><b>D4isDAVID</b></sub></a></td>
   </tr>
 </table>
 
