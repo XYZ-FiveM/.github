@@ -14,6 +14,8 @@
     <td align="center"><a href="https://github.com/Lionh34rt"><img src="https://github.com/Lionh34rt.png" width="100px;" alt=""/><br /><sub><b>Lionh34rt</b></sub></a></td>
     <td align="center"><a href="https://github.com/RoyaleWind"><img src="https://github.com/RoyaleWind.png" width="100px;" alt=""/><br /><sub><b>RoyaleWind</b></sub></a></td>
     <td align="center"><a href="https://github.com/guhblag"><img src="https://github.com/guhblag.png" width="100px;" alt=""/><br /><sub><b>guhblag</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Thomasdev18"><img src="https://github.com/Thomasdev18.png" width="100px;" alt=""/><br /><sub><b>Thomasdev18</b></sub></a></td>
+    <td align="center"><a href="https://github.com/D4isDAVID"><img src="https://github.com/D4isDAVID.png" width="100px;" alt=""/><br /><sub><b>D4isDAVID</b></sub></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/levdevlev"><img src="https://github.com/levdevlev.png" width="100px;" alt=""/><br /><sub><b>levdevlev</b></sub></a></td>
