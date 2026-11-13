@@ -16,15 +16,13 @@
     <td align="center"><a href="https://github.com/guhblag"><img src="https://github.com/guhblag.png" width="100px;" alt=""/><br /><sub><b>guhblag</b></sub></a></td>
     <td align="center"><a href="https://github.com/Thomasdev18"><img src="https://github.com/Thomasdev18.png" width="100px;" alt=""/><br /><sub><b>Thomasdev18</b></sub></a></td>
     <td align="center"><a href="https://github.com/D4isDAVID"><img src="https://github.com/D4isDAVID.png" width="100px;" alt=""/><br /><sub><b>D4isDAVID</b></sub></a></td>
+    <td align="center"><a href="https://github.com/jamesfrenzyy"><img src="https://github.com/jamesfrenzyy.png" width="100px;" alt=""/><br /><sub><b>Senorxmas</b></sub></a></td>
+    <td align="center"><a href="https://github.com/JustBlueDolphin"><img src="https://github.com/JustBlueDolphin.png" width="100px;" alt=""/><br /><sub><b>JustBlueDolphin</b></sub></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/levdevlev"><img src="https://github.com/levdevlev.png" width="100px;" alt=""/><br /><sub><b>levdevlev</b></sub></a></td>
     <td align="center"><a href="https://github.com/Scorpion7162"><img src="https://github.com/Scorpion7162.png" width="100px;" alt=""/><br /><sub><b>Scorpion</b></sub></a></td>
     <td align="center"><a href="https://github.com/AiLexie"><img src="https://github.com/AiLexie.png" width="100px;" alt=""/><br /><sub><b>Lexie</b></sub></a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/jamesfrenzyy"><img src="https://github.com/jamesfrenzyy.png" width="100px;" alt=""/><br /><sub><b>Senorxmas</b></sub></a></td>
-    <td align="center"><a href="https://github.com/JustBlueDolphin"><img src="https://github.com/JustBlueDolphin.png" width="100px;" alt=""/><br /><sub><b>JustBlueDolphin</b></sub></a></td>
   </tr>
   
 </table>
